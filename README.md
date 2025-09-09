@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 Name:Mamali Naik
 > 🛠 I’m currently working on: *Full-stack web projects (Python, Django, React)*  
 > 🤝 I’m looking to collaborate on: *Open-source projects & hackathons*  
 > 🔍 I’m looking for help with: *Cloud deployment (AWS, Docker)*  
