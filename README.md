@@ -8,7 +8,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/mamali-naik-232647286/) ](https://www.linkedin.com/in/mamali-naik-232647286/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naikmamali432@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mamali Naik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naikmamali432@gmail.com) 
+
 
 
 
